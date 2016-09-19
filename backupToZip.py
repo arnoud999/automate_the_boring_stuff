@@ -1,3 +1,4 @@
+"""Backs up all files in folder to folder_X.zip"""
 import os
 import zipfile
 import re
